@@ -9,7 +9,8 @@ import Footer from './components/Footer';
 import Experience from './components/Experience';
 import About from './components/About';
 import Contact from './components/Contact';
-import Projects from './components/Projects';
+//import Projects from './components/Projects';
+import {ProjectDetails} from './components/ProjectDetails';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,7 +19,8 @@ root.render(
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/experience' element={<Experience/>}/>
-        <Route path='/projects' element={<Projects/>}/>
+        <Route path='/projects' element={<ProjectDetails/>}/>
+        <Route path='/projectdetails' element={<ProjectDetails/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/contact' element={<Contact/>}/>
       </Routes>

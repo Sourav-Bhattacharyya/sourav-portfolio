@@ -30,7 +30,7 @@ const Navbar = () => {
           <a href="/">Sourav Bhattacharyya</a>
         </div>
         <div className="hidden sm:flex space-x-4 items-center text-sm">
-          <Link to=''>Projects</Link>
+          <Link to='/projectdetails'>Projects</Link>
           <Link to='/experience'>Experience</Link>
           <Link to='/contact'>Contact</Link>
         </div>
@@ -45,9 +45,9 @@ const Navbar = () => {
             ✕
           </button>
           <ul className="font-medium text-2xl space-y-4">
-            <li><Link to='/' onClick={closeMobileMenu}>Home</Link></li>
+            <li><Link to='' onClick={closeMobileMenu}>Home</Link></li>
             <li><Link to='/about' onClick={closeMobileMenu}>About</Link></li>
-            <li><Link to='' onClick={closeMobileMenu}>Projects</Link></li>
+            <li><Link to='/projectdetails' onClick={closeMobileMenu}>Projects</Link></li>
             <li><Link to='/experience' onClick={closeMobileMenu}>Experince</Link></li>
             <li><Link to='/contact' onClick={closeMobileMenu}>Contact</Link></li>
           </ul>
