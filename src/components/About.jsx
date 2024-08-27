@@ -32,7 +32,7 @@ const About = () => {
         <div className='flex flex-col justify-around'>
           <div className='sm:px-16 px-2'>
             <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Introduction</h2>
-            <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>👨‍💻 Hi, I'm Sourav Bhattacharyya, a 2026 graduate🎓 with a passion to finding simple solutions to complex problems. I love working in field of cybersecurity, blockchain and AI/ML .As a seasoned <a className='text-green-300 hover:text-green-500 duration-300' href='https://www.linkedin.com/in/sourav-bhattacharyya-97210a264/' target='_blank'>Software developer</a> I specialize in both CyberSecurity and Software Engineering🚀.
+            <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>👨‍💻 Hi, I'm Sourav Bhattacharyya, a 2026 graduate🎓 with a passion in finding simple solutions to complex problems. I love working in field of cybersecurity, blockchain and AI/ML .As a seasoned <a className='text-green-300 hover:text-green-500 duration-300' href='https://www.linkedin.com/in/sourav-bhattacharyya-97210a264/' target='_blank'>Software developer</a> I specialize in both CyberSecurity and Software Engineering🚀.
               <br />
                 Besides Coding I love exploring the world of cinema and love to dive deep into the world giving me a deep insight into it.  
             </p>
