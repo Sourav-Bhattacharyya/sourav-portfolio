@@ -1,4 +1,5 @@
-
+import bhk from '../src/assets/bhk.png'
+import cyberhost from '../src/assets/cyberhost.jpeg'
 export const services = [
     {
         title: "Cybersecurity Enthusiast",
@@ -21,7 +22,7 @@ export const experiences = [
         'company': 'Redverse Reality',
         'role': 'Full Stack Intern',
         'duration': 'July 2024 - Present',
-        'logo': '',
+        'logo': bhk,
         'points': [
             'Involved in dynamic contributions to web development projects, actively influencing and improving the website.',
             'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
@@ -34,7 +35,7 @@ export const experiences = [
         'company': 'THECYBERHOST',
         'role': 'Cybersecurity Intern',
         'duration': 'August 2023 - September 2023',
-        'logo': 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fthe-cyberhost.com%2Fassets%2Fimages%2Fredlight-logo.png&tbnid=lrPCJl4CClUBwM&vet=10CAIQxiAoAGoXChMI4Mvd8caViAMVAAAAAB0AAAAAEAY..i&imgrefurl=https%3A%2F%2Fthe-cyberhost.com%2F&docid=yVE2MeK4HB0AxM&w=1920&h=1080&itg=1&q=cyberhost%20logo&ved=0CAIQxiAoAGoXChMI4Mvd8caViAMVAAAAAB0AAAAAEAY',
+        'logo': cyberhost,
         'points': [
             'Gained experience with android application penetration testing.',
             'Worked on testing the application security for various application via offensive testing following white-hat protocols.'
