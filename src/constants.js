@@ -21,7 +21,7 @@ export const experiences = [
     {
         'company': 'Redverse Reality',
         'role': 'Full Stack Intern',
-        'duration': 'July 2024 - Present',
+        'duration': 'July 2024 - November 2024',
         'logo': bhk,
         'points': [
             'Involved in dynamic contributions to web development projects, actively influencing and improving the website.',
