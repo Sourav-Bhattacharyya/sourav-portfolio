@@ -18,6 +18,17 @@ export const services = [
 export const name = 'Sourav';
 
 export const experiences = [
+     {
+        'company': 'Hyland Software',
+        'role': 'R&D Intern',
+        'duration': 'August 2025 - September 2025',
+        'logo': 'https://res.cloudinary.com/hyld/image/upload/f_auto,dpr_auto,w_auto,q_auto,c_scale/v1/h2/1080x1080-hyland-social-image',
+        'points': [
+            'Worked with Java Spring Boot to create microservices for internal tools.',
+            'Working on the CI pipeline to automate the testing and deployment of microservices using GitHub Actions.'
+        ],
+        'url': 'https://www.hyland.com',
+    },
     {
         'company': 'Redverse Reality',
         'role': 'Full Stack Intern',
@@ -41,17 +52,6 @@ export const experiences = [
             'Worked on testing the application security for various application via offensive testing following white-hat protocols.'
         ],
         'url': 'https://www.the-cyberhost.com',
-    },
-    {
-        'company': 'Hyland Software',
-        'role': 'R&D Intern',
-        'duration': 'August 2025 - September 2025',
-        'logo': 'https://res.cloudinary.com/hyld/image/upload/f_auto,dpr_auto,w_auto,q_auto,c_scale/v1/h2/1080x1080-hyland-social-image',
-        'points': [
-            'Worked with Java Spring Boot to create microservices for internal tools.',
-            'Working on the CI pipeline to automate the testing and deployment of microservices using GitHub Actions.'
-        ],
-        'url': 'https://www.hyland.com',
     }
 ]
 
