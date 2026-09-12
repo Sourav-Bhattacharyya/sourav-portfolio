@@ -1,8 +1,9 @@
 import bhk from '../src/assets/bhk.png'
 import cyberhost from '../src/assets/cyberhost.jpeg'
+import iisc from "../src/assets/IISc_Master_Seal.jpg"
 export const services = [
     {
-        title: "Cybersecurity Enthusiast",
+        title: "Quantum Technology Enthusiast",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
@@ -18,6 +19,18 @@ export const services = [
 export const name = 'Sourav';
 
 export const experiences = [
+    {
+        'company': 'IISc, Bengaluru',
+        'role': 'M.Tech, Quantum Technology',
+        'duration': 'August 2026 - present',
+        'logo': iisc,
+        'points': [
+            'Worked on Quantum Computation, Quantum Materials etc.',
+            'Studied about PQC and other comming of the age technology.'
+        ],
+        'url': 'https://www.iisc.ac.in',
+    },
+
      {
         'company': 'Hyland Software',
         'role': 'R&D Intern',

@@ -47,7 +47,7 @@ const About = () => {
 
             <h2 className='text-4xl sm:text-5xl font-extrabold mt-6'>Introduction</h2>
             <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>
-              👨‍💻 Hi, I'm Sourav Bhattacharyya, a 2026 graduate🎓 with a passion for finding simple solutions to complex problems. I love working in the field of cybersecurity, blockchain, and AI/ML. As a seasoned{' '}
+              👨‍💻 Hi, I'm Sourav Bhattacharyya, a 2028 IISc graduate🎓 with a passion for finding simple solutions to complex problems. I love working in the field of Quantum Technology. As a seasoned{' '}
               <a
                 className='text-green-300 hover:text-green-500 duration-300'
                 href='https://www.linkedin.com/in/sourav-bhattacharyya-97210a264/'
@@ -56,9 +56,9 @@ const About = () => {
               >
                 Software Developer
               </a>
-              , I specialize in both Cybersecurity and Software Engineering🚀.
+              , I specialize in both Quantum Computing and Software Engineering🚀.
               <br />
-              Besides coding, I love exploring the world of cinema and diving deep into its vast universe, gaining deep insights from it.
+              Besides entangled states, I love exploring the world of cinema and diving deep into its vast universe, gaining deep insights from it.
             </p>
             <ButtonLink
               url='https://drive.google.com/file/d/1BObHE6ircGDvosFFeTTO1Hc0bmsrz2Oc/view?usp=sharing'
